@@ -1,0 +1,28 @@
+POST http://localhost:3000/
+Content-Type: application/json
+
+{
+    "name": "user1",
+    "regNo": "1",
+    "marks": "50"
+}
+{
+    "name": "user2",
+    "regNo": "2",
+    "marks": "49"
+}
+{
+    "name": "user3",
+    "regNo": "3",
+    "marks": "48"
+}
+{
+    "name": "user4",
+    "regNo": "4",
+    "marks": "47"
+}
+{
+    "name": "user5",
+    "regNo": "5",
+    "marks": "46"
+}
